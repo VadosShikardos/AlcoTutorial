@@ -123,3 +123,16 @@
 6. `Black Tot carribean rum` - Натурпродукт.
 7. `Boukman botanical rhum` - Натуральный, спайсед.
 8. `Ten to one` - Натурпродукт.
+
+## Мягкий недорогой ром
+
+1. `Don Q 7 Reserva`
+2. `Abuelo 12`
+3. `Cihuatan 12`
+4. `Dictador 12`
+5. `Ron del Barrilito`
+6. `Cruzan single barrel`
+7. `Vizkcya VXOP`
+8. `Botran 18`
+9. `Ron Cartavio XO` ????
+10. `Zafra 21`
